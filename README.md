@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introducation 
 
-Added introduction information
+Updating the introduction area of the file
 
 ## Deployment
 Sample deployment information
